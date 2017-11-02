@@ -7,7 +7,9 @@ Cartesian product enumerator.
 Ha?
 
 It will list all integer combinations in an n-dimensional
-integer space. Why is this useful? Well for getting slices
+integer space.
+
+Why is this useful? Well for getting slices
 out of n-dimensional arrays for example.
 
 

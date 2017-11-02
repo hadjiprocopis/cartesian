@@ -109,6 +109,22 @@
 			</classpath>
 		</java>
 	</target>
+	<target name="test_simplexx" depends="compiletest"
+		description="run the test case for 1D"
+		id="test_simple2"
+	>
+		<java classname='xx'
+			fork='true'
+		>
+			<jvmarg value="-enableassertions"/>
+			<classpath refid='runtest.classpath'/>
+			<classpath>
+			      <fileset dir="${jarPath}">
+				<include name="**/${jarName}"/>
+			      </fileset>
+			</classpath>
+		</java>
+	</target>
 	<target name="test_subunits" depends="compiletest"
 		description="run the test case for 1D"
 		id="test_subunits"

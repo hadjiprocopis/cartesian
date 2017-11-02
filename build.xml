@@ -1,3 +1,5 @@
+<!-- Author: Andreas Hadjiprocopis (andreashad2@gmail.com) -->
+
 <project name="ahp.org.Cartesians" default="dist" basedir=".">
 	<description>
 		build file for ahp.org.Cartesians

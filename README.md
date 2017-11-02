@@ -1,10 +1,26 @@
 # cartesian
 
+xxx
+
 author: andreas hadjiprocopis (andreashad2@gmail.com)
 
-Cartesian product enumerator.
+compile this code using
 
-Ha?
+```
+ant clean && ant
+```
+
+run tests
+
+```
+ant test
+```
+
+- What is this?
+
+- It's a Cartesian product enumerator.
+
+- Ha?
 
 It will list all integer combinations in an n-dimensional
 integer space.

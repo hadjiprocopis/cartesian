@@ -9,9 +9,9 @@ Ha?
 It will list all integer combinations in an n-dimensional
 integer space. Let's see what that means in 3 dimensions.
 
-1st dimension: spans from 0 to 2 (3 elements)
-2nd dimension: spans from 0 to 2
-3rd dimension: spans from 0 to 3
+1st dimension: spans from 0 to 2 (3 elements)<br/>
+2nd dimension: spans from 0 to 2<br/>
+3rd dimension: spans from 0 to 3<br/>
 
 ```
 import  ahp.org.Cartesians.*;

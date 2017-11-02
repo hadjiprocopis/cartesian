@@ -7,7 +7,11 @@ Cartesian product enumerator.
 Ha?
 
 It will list all integer combinations in an n-dimensional
-integer space. Let's see what that means in 3 dimensions.
+integer space. Why is this useful? Well for getting slices
+out of n-dimensional arrays for example.
+
+
+Let's see what an example in 3 dimensions.
 
 1st dimension: spans from 0 to 2 (3 elements)<br/>
 2nd dimension: spans from 0 to 2<br/>

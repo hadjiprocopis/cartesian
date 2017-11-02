@@ -1,7 +1,5 @@
 # cartesian
 
-xxx
-
 author: andreas hadjiprocopis (andreashad2@gmail.com)
 
 compile this code using
